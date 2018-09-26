@@ -7,7 +7,7 @@ Gerador de Código de um Menu de TitledPanes em JavaFX
 (inteiro indicando quantos titled panes foram enumerados)
 "Nome do titled pane pai"
 
-//Devem seguir a lógica
+>Devem seguir a lógica
 
 //Primeiro inteiro deve ser 1, 2 ou 3
 

@@ -8,7 +8,9 @@ Gerador de Código de um Menu de TitledPanes em JavaFX
 "Nome do titled pane pai"
 
 //Devem seguir a lógica
+
 //Primeiro inteiro deve ser 1, 2 ou 3
+
 //Caso seja um titled pane, deve-se seguir com um '1'
 //Caso seja um botão, deve-se seguir com um '0'
 //Caso o primeiro inteiro seja 3, a seguir deve escrever um 0
